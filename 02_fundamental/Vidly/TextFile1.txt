@@ -1,0 +1,14 @@
+﻿App_Data: database files will be stored
+App_Start: classes will be called when application starts
+	- RouteConfig: configuration of routing rules
+Content: css files and images
+Controllers: controlers
+Models: domain classess
+Scripts: Js
+Views: name corresponding to controller name
+	- Shared: views can be used by different controllers
+favicon.ico: icon of the application
+Global.asax: hooks for application
+packages.config: nuget package manager, similar to npm
+Startup.cs: start up C# for application
+Web.config: xml contains configuration
